@@ -1,0 +1,12 @@
+# LaunchOS — pack internals, rendered host commands, and derived state.
+# Engagement artifacts and the ledger are tracked deliberately.
+.launchos/
+.claude/skills/launch-*/
+.cursor/commands/launch-*.md
+.devin/skills/launch-*/
+.github/prompts/launch-*.prompt.md
+.codex/prompts/launch-*.md
+# Operating-system files that are never engagement content (4.12.0).
+.DS_Store
+Thumbs.db
+desktop.ini
